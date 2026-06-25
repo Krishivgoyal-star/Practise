@@ -1,1 +1,3 @@
 Merit text file for practice
+
+New merits added to the file
